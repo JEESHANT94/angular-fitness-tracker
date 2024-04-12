@@ -127,5 +127,8 @@
       }
     }
   },
-  "defaultProject": "angular-fitness-tracker"
+  "defaultProject": "angular-fitness-tracker",
+  "cli": {
+    "analytics": false
+  }
 }
